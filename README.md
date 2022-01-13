@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @prkkhan786
-- 👀 I’m interested in Coding Coding Coding
+- 👀 I’m interested in Developing things from scratch
 - 🌱 I’m currently learning Javascript ,Javascript , Javascript
 - 💞️ I’m looking to collaborate on Anything 
 - 📫 How to reach me prkkhan1@outlook.com
