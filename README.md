@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @prkkhan786
+## 👋 Hi, I’m Parvez 
 
 - Passionate about building things from scratch
 - Currently learning and improving my JavaScript skills
