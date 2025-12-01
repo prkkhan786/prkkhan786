@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @prkkhan786
-- 👀 I’m interested in Developing things from scratch
-- 🌱 I’m currently learning Javascript ,Javascript , Javascript
-- 💞️ I’m looking to collaborate on Anything 
-- 📫 How to reach me prkkhan1@outlook.com
+## 👋 Hi, I’m @prkkhan786
+
+- Passionate about building things from scratch
+- Currently learning and improving my JavaScript skills
+- Open to collaborating on interesting projects
+- Reach me at: prkkhan1@outlook.com
+
 
 <!---
 prkkhan786/prkkhan786 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
